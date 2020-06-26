@@ -1,6 +1,8 @@
 # Configuración Básica de Webpack para React
   Webpack, Webpack-dev-Server, React, Babel, Sass.
 
+![Alt text](relative/path/code.png?raw=true "Title")
+
 ## Este Webpack workflow permite
 - Uso de javascript ES6 con Babel.
 - Uso de React y JSX ES6 con Babel (.js/.jsx)
