@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles.scss"],"names":[],"mappings":"AAEA,KACI,wBAHqB","file":"main.css","sourcesContent":["$color: rgb(27, 170, 158);\r\n\r\nbody{\r\n    background-color: $color;\r\n}"],"sourceRoot":""}
